@@ -1,0 +1,2 @@
+# Mini-AlphaGo
+Python-GUI
